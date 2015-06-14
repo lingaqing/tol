@@ -1,0 +1,6 @@
+//Problem G7 Gains Parameters File
+100   // Thrust gain 
+0     // Position gain
+0     // Velocity gain 
+0     // Angle gain
+0     // Time gain

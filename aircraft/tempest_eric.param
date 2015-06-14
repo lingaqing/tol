@@ -1,0 +1,16 @@
+//Eric Tempest Aircraft Parameters File
+6.122800\n  // Mass (kg)
+3.222900\n	// Wing span (m)
+0.631600\n	// Wing area (m^2)
+0.969300\n	// Oswald efficiency factor
+16.445700\n	// Aspect ratio
+0.0300\n	// Parasitic drag coefficient
+-0.45\n     // Min lift coefficient
+0.9\n      	// Max lift coefficient
+45.0\n		// Max bank angle (deg)
+12.0\n      // Min airspeed (m/s)
+30.0\n		// Max airspeed (m/s)
+20.0\n		// Max climb angle (deg)
+20.00\n		// Max roll rate (deg/s)
+0.0\n      	// Min thrust (N)
+56.33\n     // Max thrust (N)

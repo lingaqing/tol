@@ -1,0 +1,6 @@
+//Problem S10 Gains Parameters File
+0   // Thrust gain 
+8     // Position gain
+0     // Velocity gain 
+0     // Angle gain
+1     // Time gain

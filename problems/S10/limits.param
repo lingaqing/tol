@@ -1,0 +1,9 @@
+//Problem S10 Limits Parameters File
+0.05    	    // Min dt (s)
+0.4   			// Max dt (s)
+-1e20     		// Min x (m)
+1e20			// Max x (m)
+-1e20     		// Min y (m)
+1e20			// Max y (m)
+-1e20     		// Min z (m)
+0				// Max z (m)

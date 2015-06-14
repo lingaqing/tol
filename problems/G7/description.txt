@@ -1,0 +1,18 @@
+Name: G7
+Type: Guidance
+Description: A guidance-type trajectory that minimizes thrust-usage and maximizes average velocity
+Cost: SUM[ (1/2)T^2 ] + 1/(avg. velocity)
+Gains: kT, kv
+Boundary Constraints: 12
+1. x along desired chi
+2. y along desired chi
+3. z periodic
+4. Va periodic
+5. gam periodic
+6. chi periodic
+7. phi periodic
+8. CL periodic
+9. dphi periodic
+10. dCL periodic
+11. T periodic
+12. distance traveled must be less than or equal to goal

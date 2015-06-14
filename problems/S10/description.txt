@@ -1,0 +1,19 @@
+Name: S10
+Type: Loiter
+Description: A loitering-type trajectory that minimizes thrust-usage, 
+distance to the edge of the goal radius, and total time
+Cost: SUM[ (1/2)T^2 + (1/2)(D)^2 ] + dt
+D = distance from aircraft location to edge of goal radius
+Gains: kT, kP, kdt
+Boundary Constraints: 11
+1. x periodic
+2. y periodic
+3. z periodic
+4. Va periodic
+5. gam periodic
+6. chi periodic
+7. phi periodic
+8. CL periodic
+9. dphi periodic
+10. dCL periodic
+11. T periodic

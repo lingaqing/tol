@@ -1,0 +1,16 @@
+//Skywalker X-8 Aircraft Parameters File, Last Updated: July 1, 2014 by Kevin Rauhauser
+4\n    	// Mass (kg)
+2.42\n	// Wing span (m)
+0.673\n	// Wing area (m^2)
+0.722\n	// Oswald efficiency factor
+8.695\n	// Aspect ratio
+0.011\n	// Parasitic drag coefficient
+-0.45\n     	// Min lift coefficient
+1.6\n       	// Max lift coefficient
+10.0\n		// Max bank angle (deg) (used to be 45!)
+7.0\n       	// Min airspeed (m/s)
+20.0\n		// Max airspeed (m/s)
+20.0\n		// Max climb angle (deg) (used to be 30!)
+25.0\n		// Max roll rate (deg/s) (used to be 50)
+0.0\n       	// Min thrust (N)
+27.45\n      	// Max thrust (N) 

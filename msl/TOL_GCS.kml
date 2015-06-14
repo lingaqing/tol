@@ -1,0 +1,41 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>TOL GCS</name>
+    <visibility>1</visibility>
+    <Style id="sn_airports">
+      <IconStyle>
+        <scale>1.2</scale>
+        <heading>357.44</heading>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/airports.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="sn_truck">
+      <IconStyle>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/truck.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Placemark>
+      <name>sUAS(-12743189.12,-4884441.45,-1091.62)</name>
+      <visibility>1</visibility>
+      <styleUrl>sn_airports</styleUrl>
+      <Point>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>149.165222,-35.363262,584.380000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MGS (0,0,0)</name>
+      <visibility>1</visibility>
+      <styleUrl>sn_truck</styleUrl>
+      <Point>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-105.240800,40.145100,1676.000000</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,16 @@
+//Wences Tempest Aircraft Parameters File
+5.741900\n  // Mass (kg)
+3.067100\n	// Wing span (m)
+0.631600\n	// Wing area (m^2)
+0.969300\n	// Oswald efficiency factor
+16.4457\n	// Aspect ratio
+0.031\n	// Parasitic drag coefficient
+-0.5\n     // Min lift coefficient
+3.0\n      	// Max lift coefficient
+90.0\n		// Max bank angle (deg)
+4.0\n      // Min airspeed (m/s)
+50.0\n		// Max airspeed (m/s)
+90.0\n		// Max climb angle (deg)
+200.00\n		// Max roll rate (deg/s)
+0.0\n      	// Min thrust (N)
+1e20\n     // Max thrust (N)

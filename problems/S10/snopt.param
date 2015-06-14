@@ -1,0 +1,7 @@
+//Problem S10 SNOPT Parameters File
+100    // Number of time segments  
+11        // Number of inputs
+8         // Number of states
+11        // Number of boundary constraints
+1.0e-3    // Optimality tolerance
+1.0e-5    // Feasibility tolerance
